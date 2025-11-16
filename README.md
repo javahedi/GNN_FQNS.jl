@@ -20,7 +20,6 @@ The implementation is:
 
 * **functional & mutation-free**
 * **Zygote-compatible (AD-safe)**
-* **fully tested (129 tests, all passing)**
 * **CPU reference implementation**
 * **modular, extensible, and research-ready**
 
