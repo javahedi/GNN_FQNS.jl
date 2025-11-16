@@ -86,7 +86,7 @@ end
 
 println("Running parallel 4×4 lattice sweep with checkpoints...")
 
-L = 4
+L = 8
 g = build_square_lattice(L)
 
 ps = collect(range(0.0, 1.0; length=11))
